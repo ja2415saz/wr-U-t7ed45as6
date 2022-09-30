@@ -4,8 +4,4 @@
 	"Name": "Rust133",
 	"Address": "185.231.114.99",
 	"Port": "28015"
-}, {
-	"Name": "Rust196",
-	"Address": "185.231.114.170",
-	"Port": "28015"
 } ]</body></html>
